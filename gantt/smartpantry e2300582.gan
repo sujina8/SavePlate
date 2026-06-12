@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="SavePlate(E2300582)" company="HELP University" webLink="http://" view-date="2026-05-11" view-index="0" gantt-divider-location="450" resource-divider-location="300" version="3.3.3322" locale="en_GB">
+<?xml version="1.0" encoding="UTF-8"?><project name="SavePlate(E2300582)" company="HELP University" webLink="http://" view-date="2026-06-01" view-index="0" gantt-divider-location="450" resource-divider-location="300" version="3.3.3322" locale="en_GB">
     <description/>
-    <view zooming-state="default:5" id="gantt-chart">
+    <view zooming-state="default:3" id="gantt-chart">
         <field id="tpd3" name="Name" width="247" order="0"/>
         <field id="tpd4" name="Begin date" width="92" order="1"/>
         <field id="tpd5" name="End date" width="95" order="2"/>
@@ -44,7 +44,7 @@
                 <depend id="7" type="2" difference="0" hardness="Strong"/>
                 <depend id="8" type="2" difference="0" hardness="Strong"/>
             </task>
-            <task id="6" uid="5d622cb74d344d4897b5ecef5e0557d6" name="1.2 Write the Overview" meeting="false" start="2026-05-19" duration="3" complete="100" expand="true"/>
+            <task id="6" uid="5d622cb74d344d4897b5ecef5e0557d6" name="1.2 Write the Overview" meeting="false" start="2026-05-19" duration="2" complete="100" expand="true"/>
             <task id="7" uid="f06718c647ee48c79a89275a092f7fcf" name="1.3 Write Aims &amp; Objectives" meeting="false" start="2026-05-19" duration="2" complete="100" expand="true"/>
             <task id="8" uid="f53d375c4cc44a0ebd7fc9afe8d89ec0" name="1.4 Write the Scope" meeting="false" start="2026-05-19" duration="2" complete="100" expand="true">
                 <depend id="9" type="2" difference="0" hardness="Strong"/>
